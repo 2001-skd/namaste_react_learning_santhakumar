@@ -1,0 +1,14 @@
+{
+  "name": "reactpractice",
+  "version": "1.0.0",
+  "description": "its a react practice folder by santhakumar",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "santhakumar",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.14.4"
+  }
+}
